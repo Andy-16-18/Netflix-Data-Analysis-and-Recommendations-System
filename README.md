@@ -4,20 +4,20 @@ A web-app which can be used to get recommendations for a series/movie, the app r
 </p>
 
  # This web-app contains 3 main pages:
-- [Home Page](#home-page) with Recommendations
-- [Movie Detail Page](#movie-detail-page)  with Recommendations
-- [Netflix Page](#netflix-page)
+- Home Page with Recommendations
+- Movie Detail with Recommendations
+- Netflix Page
 
 ## Home Page with Recommendations
-Here the user can choose list of their favourite movies and series and their preferred language. For example, I have entered a list with 2 Horror Movies(Insidious and Insidious Chapter 2), an action series(Supergirl) and a drama series(Suits) as my list of choices and English and Hindi as my preferred languages.
+Here the user can choose list of their favourite movies and series and their preferred language. For example, I have entered Spider Man an Sci-Fi,Action Movie and English as my preferred language.We can select multiple movies or series and languages too.
 Clicking on the Get Recommendation button the user will get poster images of all the recommended movies and series sorted based upon their IMDb Scores.
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
 
-![](/Netflix Recommendation System/UI_SS/HomePage.png)
-![](/Netflix Recommendation System/UI_SS/HomePage With Selected.png)
-![](/Netflix Recommendation System/UI_SS/HomePage with Recommendation.png)
-![](/Netflix Recommendation System/UI_SS/HomePage with Recommendation1.png)
+![HomePage](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/5f7995e3-7185-4210-860e-c0c825b21790)
+![HomePage With Selected](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/718b61f1-9c42-408c-9aae-e980ea3208b5)
+![HomePage with Recommendation](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/742080b5-737e-4fbf-8c56-8ab7ac89934e)
+![HomePage with Recommendation1](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/78f52456-abf1-4cb0-8c4a-e5407e755ff2)
 
 ## Movie Detail Page with Recommendations
 Here are the complete details of the user selected title like Genre, Movie Summary, Languages in which movie is available, IMDb scores, Directors, Writers and Actors and so on. User will also find a link at the end of the page for the NEtflix Page of the corresponding title. 
@@ -25,13 +25,14 @@ Here also the user will get poster images of all the recommended movies and seri
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
 
-![](/Netflix Recommendation System/UI_SS/Moviepage Selected Movie.png)
-![](/Netflix Recommendation System/UI_SS/Moviepage Recommendation.png)
+![Moviepage Selected Movie](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/9d31dc12-8e6c-41e9-bd08-96c9512324d1)
+![Moviepage Recommendation](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/a17102e9-f9ad-48b7-87ab-4f2b4a19c55a)
 
 ## Netflix Page
 This page is not a part of my web-app but an example what the user will see as the Netflix Page if they choose to click on the Netflix Link for the title.
 You can login into your Netflix account and enjoy watching your selected movie or series from our recommendations.
-![](/Netflix Recommendation System/UI_SS/Netflix Page.png)
+
+![Netflix Page](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/07c3c106-e907-4981-affd-ae4ef349c20e)
 
 # How To Use
 
