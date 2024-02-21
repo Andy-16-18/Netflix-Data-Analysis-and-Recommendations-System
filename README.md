@@ -1,4 +1,4 @@
-<h1 align="center">Netflix-Recommendation-System</h1>
+<h1 align="center">Netflix Recommendation System</h1>
 <p><font size="3">
 A web-app which can be used to get recommendations for a series/movie, the app recommends a list of media according to list of entered choices of movies/series in your preferred language using <strong>Python</strong> and <strong>Streamlit</strong>.
 </p>
@@ -10,12 +10,16 @@ A web-app which can be used to get recommendations for a series/movie, the app r
 
 ## Home Page with Recommendations
 Here the user can choose list of their favourite movies and series and their preferred language. For example, I have entered Spider Man an Sci-Fi,Action Movie and English as my preferred language.We can select multiple movies or series and languages too.
-Clicking on the Get Recommendation button the user will get poster images of all the recommended movies and series sorted based upon their IMDb Scores.
+
+After Selecting The Movie/Series The details will appear first with Netflix Link.
+![HomePage](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/5f7995e3-7185-4210-860e-c0c825b21790)
+
+Clicking on the Get Recommendations button the user will get poster images of all the recommended movies and series sorted based upon their IMDb Scores.
+
+![HomePage With Selected](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/718b61f1-9c42-408c-9aae-e980ea3208b5)
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
 
-![HomePage](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/5f7995e3-7185-4210-860e-c0c825b21790)
-![HomePage With Selected](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/718b61f1-9c42-408c-9aae-e980ea3208b5)
 ![HomePage with Recommendation](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/742080b5-737e-4fbf-8c56-8ab7ac89934e)
 ![HomePage with Recommendation1](https://github.com/Andy-16-18/Netflix-Data-Analysis-and-Recommendations-System/assets/141159119/78f52456-abf1-4cb0-8c4a-e5407e755ff2)
 
